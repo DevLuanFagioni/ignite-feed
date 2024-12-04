@@ -36,4 +36,4 @@ Ignite feed é um projeto simples que simula o feed das redes sociais,<br> com f
 
 ## Considerações finais
 
-### Desenvolvido por ``Luan Fagiobi``
+### Desenvolvido por ``Luan Fagioni``
