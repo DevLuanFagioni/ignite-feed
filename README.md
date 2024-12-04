@@ -2,6 +2,8 @@
 
 Ignite feed é um projeto simples que simula o feed das redes sociais,<br> com funcionalidades de comentários, likes e apagar comentário.
 
+![Captura de tela 2024-12-04 203223](https://github.com/user-attachments/assets/7056c741-9b30-4347-b7bd-7684b1f38ebf)
+
 ## Funcionalidades
 
 <ul>
